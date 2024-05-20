@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ConeBill
 - 👀 I’m interested in programming AI related websites and micro projects
-- - 🌱 Currently I'm learning about SQL, JavaScript, CSS, HTML5 Among other tools
+- - 🌱 Currently I'm learning about SQL, JavaScript, CSS, HTML5, React JS Among other tools
 - 💞️ I try to collaborate in making the codes more efficient and solving the doubts that come to me, but always with the focus on learning more
 - 🔭 I'm currently working at Sil Tecnologia
